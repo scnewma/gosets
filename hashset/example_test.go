@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/scnewma/go-sets/hashset"
+	"github.com/scnewma/gosets/hashset"
 )
 
 func Example() {
