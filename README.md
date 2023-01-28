@@ -1,5 +1,7 @@
 # go-sets
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/scnewma/gosets.svg)](https://pkg.go.dev/github.com/scnewma/gosets/hashset)
+
 Tired of writing code like this?
 
 ```
